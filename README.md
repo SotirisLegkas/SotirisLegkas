@@ -1,7 +1,7 @@
-### Sotiris Legkas
-Hey there 👋  
+## Hey there 👋
+
 I'm Sotiris, an NLP Engineer / Researcher at IIT NCSR Demokritos. \
-I'm Data Science graduate with a Finance background. \
+I'm a Data Science graduate with a Finance background. \
 I could characterize myself as a business-oriented tech enthusiast with a passion in Machine Learning. 🤖 \
 Currently, I am emphasizing on the NLP domain using deep learning techniques. \
 I am keen in end-to-end data science operations and machine learning applications. I have a solid background in NLP, image processing, feature engineering, building and deploying machine learning models. \
