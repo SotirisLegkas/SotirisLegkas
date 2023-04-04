@@ -23,15 +23,15 @@ Finally, I am always seeking new challenges and to constantly develop in the Dat
 ### 🧰 Libraries
 
 <p>
-    <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-FF6F00.svg?logo=numpy"></a>
-    <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-FF6F00.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://www.scipy.org/"><img alt="ScipyPy" src="https://img.shields.io/badge/SciPy-FF6F00.svg?logo=SciPy&logoColor=white"></a>
-    <a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn-FF6F00.svg?logo=scikit-learn&logoColor=white"></a>
-    <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://pytorch.org/"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-FF6F00.svg?logo=pytorch&logoColor=white"></a>
-    <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-FF6F00.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-FF6F00.svg?logo=fastapi&logoColor=white"></a>
-    <a href="https://spark.apache.org/"><img alt="PySpark" src="https://img.shields.io/badge/PySpark-FF6F00.svg?logo=apache%20spark&logoColor=white"></a>
+    <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-F08000.svg?logo=numpy"></a>
+    <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-F08000.svg?logo=pandas&logoColor=white"></a>
+    <a href="https://www.scipy.org/"><img alt="ScipyPy" src="https://img.shields.io/badge/SciPy-F08000.svg?logo=SciPy&logoColor=white"></a>
+    <a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn-F08000.svg?logo=scikit-learn&logoColor=white"></a>
+    <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-F08000.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="https://pytorch.org/"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-F08000.svg?logo=pytorch&logoColor=white"></a>
+    <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-F08000.svg?logo=Keras&logoColor=white"></a>
+    <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-F08000.svg?logo=fastapi&logoColor=white"></a>
+    <a href="https://spark.apache.org/"><img alt="PySpark" src="https://img.shields.io/badge/PySpark-F08000.svg?logo=apache%20spark&logoColor=white"></a>
 </p>
 
 ### 📊 Data Visualization Tools
@@ -47,12 +47,12 @@ Finally, I am always seeking new challenges and to constantly develop in the Dat
 ### 💻 Software and Tools
 
 <p>
-   <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FF6F00.svg?logo=linux&logoColor=white"></a>
-   <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FF6F00.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-FF6F00.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://colab.research.google.com/?utm_source=scs-index"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-FF6F00.svg?logo=google%20colab&logoColor=ffd936"></a>
-    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-FF6F00.svg?logo=docker&logoColor=white"></a>
-    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-FF6F00.svg?logo=postgresql&logoColor=white"></a>
+   <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-F08000.svg?logo=linux&logoColor=white"></a>
+   <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F08000.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-F08000.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://colab.research.google.com/?utm_source=scs-index"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F08000.svg?logo=google%20colab&logoColor=ffd936"></a>
+    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-F08000.svg?logo=docker&logoColor=white"></a>
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-F08000.svg?logo=postgresql&logoColor=white"></a>
 </p>
 	
 <p align="left">
