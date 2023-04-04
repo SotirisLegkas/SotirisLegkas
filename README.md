@@ -1,8 +1,10 @@
 ### Sotiris Legkas
 Hey there 👋  
-I'm Sotiris, an NLP Engineer / Researcher at IIT NCSR Demokritos.
-I'm Data Science graduate with a Finance background. I could characterize myself as a business-oriented tech enthusiast with a passion in Machine Learning. Currently, I am emphasizing on the NLP domain using deep learning techniques. 
-I am keen in end-to-end data science operations and machine learning applications. I have a solid background in NLP, image processing, feature engineering, building and deploying machine learning models. 
+I'm Sotiris, an NLP Engineer / Researcher at IIT NCSR Demokritos. \
+I'm Data Science graduate with a Finance background. \
+I could characterize myself as a business-oriented tech enthusiast with a passion in Machine Learning. 🤖 \
+Currently, I am emphasizing on the NLP domain using deep learning techniques. \
+I am keen in end-to-end data science operations and machine learning applications. I have a solid background in NLP, image processing, feature engineering, building and deploying machine learning models. \
 Finally, I am always seeking new challenges and to constantly develop in the Data Science field.
 
 ## 🛠️ My favorite tools
@@ -13,7 +15,7 @@ Finally, I am always seeking new challenges and to constantly develop in the Dat
 <p>
     <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
     <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-    <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+    <a href="https://www.stata.com/"><img alt="Stata" src="https://custom-icon-badges.herokuapp.com/badge/Stata-blue.svg?logo=Stata2"></a>
     <a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 	
 </p>
@@ -27,18 +29,10 @@ Finally, I am always seeking new challenges and to constantly develop in the Dat
     <a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn-3499cd.svg?logo=scikit-learn&logoColor=fa9b3b"></a>
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://pytorch.org/"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-ee4c2c.svg?logo=pytorch&logoColor=white"></a>
-    <a href="https://streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-ff4b4b.svg?logo=streamlit&logoColor=white"></a>
     <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://xgboost.readthedocs.io/en/latest/"><img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-337ab7.svg?logo=xgboost&logoColor=white"></a>
-    <a href="https://lightgbm.readthedocs.io/en/latest/"><img alt="lightgbm" src="https://img.shields.io/badge/LightGBM-2980b9.svg?logo=xgboost&logoColor=333333"></a>   
-    <a href="https://catboost.ai//"><img alt="catboost" src="https://img.shields.io/badge/catboost-ffcc00.svg?logo=catboostai&logoColor=333333"></a>
     <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3c4c74.svg?logo=plotly&logoColor=white"></a>
-    <a href="https://plotly.com/dash/"><img alt="Dash" src="https://img.shields.io/badge/Dash-9ca4bc.svg?logo=dash&logoColor=white"></a>
     <a href="https://spark.apache.org/"><img alt="Apache Spark" src="https://img.shields.io/badge/Spark-e36b1a.svg?logo=apache%20spark&logoColor=white"></a>
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
 
